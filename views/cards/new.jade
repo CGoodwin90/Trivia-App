@@ -1,0 +1,9 @@
+extends ../layout   
+
+block content
+    h2 Create a New Flash Card
+    div.card-form
+        div.card-form-infos
+            <br>
+            form(action="/cards", method="post")
+                include form

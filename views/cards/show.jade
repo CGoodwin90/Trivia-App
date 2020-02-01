@@ -1,0 +1,21 @@
+extends ../layout
+
+block content
+  h2= show
+  div.card-product
+    div.card-product-infos
+      h3 <strong>Question:</strong>
+      h3= card.question
+      h3<strong>Hint:</strong>
+      h3= card.hint
+  a(href="/cards/" + card.id + "/answer" class="btn-flat") Show Answer
+  <br>
+  <br>
+  div.links
+    a(href="../") &larr; Back 
+    | | 
+    a(href="/cards/" + card.id + "/edit") Edit Card 
+    | | 
+    a(href="/cards/" + card.id + "/delete") Delete Card
+
+  

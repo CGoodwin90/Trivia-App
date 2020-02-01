@@ -1,0 +1,16 @@
+extends ../layout   
+
+block content
+    div.container
+        | 
+        a(href="/cards/new", class="btn-flat") Create Card
+    div.card-index
+        each card in cards
+            card.card-product
+                img(src='http://www.handandbeak.com/wp-content/uploads/yo/young-man-thinking-standing-under-question-marks-man-surrounded-by.jpg')
+                div.card-product-infos
+                    h3= card.question
+                    div.links
+                        a(href = "/cards/" + card.id class=) See Card &rarr;
+
+

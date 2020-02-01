@@ -1,0 +1,12 @@
+extends ../layout
+
+block content
+  h2 Flash Card
+  p 
+    | Are you sure you want to delete 
+    em= card.question
+    | ?
+  form(action="/cards/" + card.id + "/delete", method="post")
+    a(href="/cards/" + card.id) No! Take me back! 
+    | 
+    input(type="submit", value = "Yes, I'm sure")

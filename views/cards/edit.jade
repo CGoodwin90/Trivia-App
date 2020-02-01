@@ -1,0 +1,8 @@
+extends ../layout
+
+block content
+  h2 Edit a Flash Card
+  div.card-form
+    div.card-form-infos
+      form(action="/cards/" + card.id + "/edit", method="post")
+        include form

@@ -1,0 +1,325 @@
+{
+"cards": [
+ {
+   "Category": "Geography",
+   "Question": "Name 7 countries (excluding African countries) with only 4 letters in its name",
+   "Answer": "Cuba, Fiji, Laos, Iran, Iraq, Oman, Peru"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "Which automobile manufacturer means \"the people's car\"?",
+   "Answer": "Volkswagon"
+ },
+ {
+   "Category": "Movie",
+   "Question": "Which of the Charlie's Angels is the youngest? Drew Barrymore, Cameron Diaz, Lucy Liu",
+   "Answer": "Drew Barrymore"
+ },
+ {
+   "Category": "Movie",
+   "Question": "Name the characters played by Keanu Reaves, Laurence Fishbourne and Carrie-ann Moss in The Matrix.",
+   "Answer": "Neo, Morpheus, Trinity"
+ },
+ {
+   "Category": "Language",
+   "Question": "What does the Latin saying Carpe Diem mean?",
+   "Answer": "Seize the day"
+ },
+ {
+   "Category": "History",
+   "Question": "In which century was the golf club St Andrews founded?",
+   "Answer": "18th century (1700s)"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "Which organ is stimulated by the drug Digitalis?",
+   "Answer": "Heart"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "The 5 largest moons in our Solar System orbit which 3 planets?",
+   "Answer": "Jupiter, Saturn, Earth"
+ },
+ {
+   "Category": "Sports",
+   "Question": "Who surpassed the goal kicking record of 1,299 goals in the AFL/VFL?",
+   "Answer": "Tony Lockett"
+ },
+ {
+   "Category": "Anagram",
+   "Question": "SAY NAILS",
+   "Answer": "ANALYSIS"
+ },
+ {
+   "Category": "Culture",
+   "Question": "What is the longest running Broadway show?",
+   "Answer": "The Phantom of the Opera"
+ },
+ {
+   "Category": "Sports",
+   "Question": "Excluding boxers, who were the 3 highest earning sportsmen at the end of the 20th century?",
+   "Answer": "Michael Jordan, Tiger Woods, Michael Schumauher "
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "What types of wood were the following made of? A) Chippindale furniture B) Cricket bat C) Rolls Royce dashboard",
+   "Answer": "A) Moghaney\nB) Willow\nC) Walnut"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "What animal features on the A$20 note?",
+   "Answer": "Camel"
+ },
+ {
+   "Category": "History",
+   "Question": "Against which country did England wage the War of Jenkin's Ear?",
+   "Answer": "Spain"
+ },
+ {
+   "Category": "Sports",
+   "Question": "\"Cash beats check\" This was a headline in English newspapers. What sport was this referring to?",
+   "Answer": "Tennis (Wimbledon single's final)"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "Michael Jackson allegedly suffered from which skin colour changing condition?",
+   "Answer": "Vitiligo"
+ },
+ {
+   "Category": "Television",
+   "Question": "What was Al Bundy's occupation?",
+   "Answer": "Shoe Salesman"
+ },
+ {
+   "Category": "Television",
+   "Question": "Which TV series featured Sue Slyvester and Will Schuester?",
+   "Answer": "Glee"
+ },
+ {
+   "Category": "Television",
+   "Question": "Which 2 Brady kids were never shown wearing braces?",
+   "Answer": "Peter and Greg"
+ },
+ {
+   "Category": "Geography",
+   "Question": "In South Africa, Soweto is a contraction of what?",
+   "Answer": "South west town"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "What vitamins can be found in fish oil?",
+   "Answer": "A, D"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "Traditionally, what should you store your cigars in?",
+   "Answer": "Humidor"
+ },
+ {
+   "Category": "Geography",
+   "Question": "How many US states border Canada? 7, 9, 11 or 13?",
+   "Answer": "13"
+ },
+ {
+   "Category": "Anagram",
+   "Question": "What word can be formed with the following 9 letters? EEERRIMPT",
+   "Answer": "PERIMETER"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "Which country has the highest education standard?",
+   "Answer": "Finland"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "Diamonds are formed from which element?",
+   "Answer": "Carbon"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "Verdigers are formed from which metal?",
+   "Answer": "Copper"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "Calamine is derived from which element?",
+   "Answer": "Zinc"
+ },
+ {
+   "Category": "Video games",
+   "Question": "Which video game takes place in Liberty City or Vice City?",
+   "Answer": "Grand Theft Auto"
+ },
+ {
+   "Category": "Movie",
+   "Question": "What was Will Smith's last movie in 2019?",
+   "Answer": "Gemini Man"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "What is the female equivalent of an Earl?",
+   "Answer": "Countess"
+ },
+ {
+   "Category": "TV",
+   "Question": "In the first season of Friends, there wer 4 permanent sets. What were they?",
+   "Answer": "Central Perk coffee house, Monica and Rachel's apartment, Chandler and Joey's apartment, the hallway"
+ },
+ {
+   "Category": "Language",
+   "Question": "What is the spanish word \"Gringo\" mean in South America?",
+   "Answer": "White man"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "What does DKNY stand for?",
+   "Answer": "Donna Karon New York"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "Which country is the home of Lego?",
+   "Answer": "Denmark"
+ },
+ {
+   "Category": "Sports ",
+   "Question": "What 4 individual sports featured in the Rio Olympics that involved the use of a ball?",
+   "Answer": "Tennis, Table tennis, Golf, Rhythmatic gymnastics "
+ },
+ {
+   "Category": "Culture",
+   "Question": "The Book of Mormon follows 2 missionaries preaching religion to which country? Jamaica, Haiti, Rwanda or Uganda?",
+   "Answer": "Uganda"
+ },
+ {
+   "Category": "Food ",
+   "Question": "What is the 'carre' in Chilli con Carre?",
+   "Answer": "Meat"
+ },
+ {
+   "Category": "Sports",
+   "Question": "In the opening match of the 2003 Rugby World Cup, who did Australia play against?",
+   "Answer": "Argentina "
+ },
+ {
+   "Category": "Movie",
+   "Question": "Name 4 movies with a one word title starring Eric Bana.",
+   "Answer": "Hulk, Troy, Chopper, Munich, Hanna"
+ },
+ {
+   "Category": "Language",
+   "Question": "She ran like a deer. He was as cunning as a fox. What are these sentences examples of?",
+   "Answer": "Simile"
+ },
+ {
+   "Category": "Religion",
+   "Question": "What are the nationalities of the last 3 popes? Pope Francis, Pope Benedict XVI, Pope John Paul II",
+   "Answer": "Argentinian, German, Polish"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "What is the common term for the blood pushing against an artery?",
+   "Answer": "Blood Pressure"
+ },
+ {
+   "Category": "Sports",
+   "Question": "Which 2 countries played the final of the Federation Cup?",
+   "Answer": "Australia, France"
+ },
+ {
+   "Category": "Science and Nature",
+   "Question": "What is a young philcard called?",
+   "Answer": "Sardine"
+ },
+ {
+   "Category": "Music",
+   "Question": "What song never made it to the top 40? Hotel California by The Eagles, Drive-by by Bee Gees or Goodbye by Spice Girls",
+   "Answer": "Hotel California"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "In a 2009 national survey, what did Singaporeans vote as the greatest invention of the 20th century?",
+   "Answer": "Air conditioning"
+ },
+ {
+   "Category": "Geography",
+   "Question": "Name 3 African countries starting with the letter T.",
+   "Answer": "Tunisia, Togo, Tanzania "
+ },
+ {
+   "Category": "Anagram",
+   "Question": "POTTERY INK",
+   "Answer": "KRYPTONITE "
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "In which Queensland town was Cathy Freeman born?",
+   "Answer": "Mackay"
+ },
+ {
+   "Category": "Riddle",
+   "Question": "WHO AM I?\nI am a name associated with a sport.\nI was raisd in Northwest London in the 1920s.\nI appeared in the 1948 Olympics.\nMy greatest moment was in 1966.\nI retired in November 2000 but am back working, busier than ever.",
+   "Answer": "Wembly Stadium"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "The original Monopoly was based on which US city? New York, Chicago, Atlantic City",
+   "Answer": "Atlantic City"
+ },
+ {
+   "Category": "Television",
+   "Question": "In which US sitcom did Larry David play himself?",
+   "Answer": "Curb Your Enthusiasm "
+ },
+ {
+   "Category": "Television",
+   "Question": "The crime series Taggard was set in which British city?",
+   "Answer": "Glasgow"
+ },
+ {
+   "Category": "Sports",
+   "Question": "Where did ex-AFL player Warrick Clapper play majority of his career?",
+   "Answer": "Sydney Swans"
+ },
+ {
+   "Category": "Geography",
+   "Question": "Which countries would you find the Northmost, Westernmost, and Eastmost point Africa?",
+   "Answer": "Tunisia, Senegal, Somalia"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "How many letteres are there in the word supercalifragilisticexpialidocious?",
+   "Answer": "34"
+ },
+ {
+   "Category": "Sports",
+   "Question": "What is the collective name for the 11th, 12th and 13th holes at the St Augusta Golf Course?",
+   "Answer": "Amen Corner"
+ },
+ {
+   "Category": "Literature",
+   "Question": "Name the heroine in Pride and Prejudice and who was her love interest?",
+   "Answer": "Elizabeth Bennet, Mr Darcy"
+ },
+ {
+   "Category": "History",
+   "Question": "What are the 3 ages of human civilisation whose names are derived from tool making cultures?",
+   "Answer": "Stone age, Bronze age, Iron age"
+ },
+ {
+   "Category": "Geography",
+   "Question": "Which city is further north? Dublin or Amsterdam",
+   "Answer": "Dublin"
+ },
+ {
+   "Category": "Literature",
+   "Question": "In the Hitchhiker's Guide to the Galaxy, what is the answer to the question 'What is the meaning of life, universe and everything?'",
+   "Answer": "42"
+ },
+ {
+   "Category": "General Knowledge",
+   "Question": "What is the female version of an Aviator?",
+   "Answer": "Aviatrix"
+ }
+]
+}
+ 
